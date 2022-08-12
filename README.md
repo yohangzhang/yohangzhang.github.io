@@ -1,7 +1,11 @@
 ## Welcome to GitHub Pages
 
+<<<<<<< HEAD
 This is Yuhang Zhang's personal websit. This website is under constructing. Coming soon, Thanks.
 This is a random text. To see how it changes with the local file changes.
+=======
+This is a random text. To see how it changes with the source file changes.
+>>>>>>> 2a24c49cc33fe8e5c107d81bac638f4634a6ee9f
 
 You can use the [editor on GitHub](https://github.com/yohangzhang/yohangzhang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
